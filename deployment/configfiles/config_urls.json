@@ -5,7 +5,7 @@
     },
     {
         "url": "https://ais48.data-dev.vanoord.com/api/v1/docs/openapi.yml",
-        "name": "GeoTech"
+        "name": "AIS48"
     },
     {
         "url": "https://geotech.data.vanoord.com/api/v1/docs/openapi.yml",
